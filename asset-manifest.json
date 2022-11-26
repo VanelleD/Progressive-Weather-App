@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Progressive-Weather-App/static/css/main.7036bb99.css",
+    "main.js": "/Progressive-Weather-App/static/js/main.fa186649.js",
+    "static/media/weather.jpg": "/Progressive-Weather-App/static/media/weather.bd59187a29badb40b4b2.jpg",
+    "index.html": "/Progressive-Weather-App/index.html",
+    "main.7036bb99.css.map": "/Progressive-Weather-App/static/css/main.7036bb99.css.map",
+    "main.fa186649.js.map": "/Progressive-Weather-App/static/js/main.fa186649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7036bb99.css",
+    "static/js/main.fa186649.js"
+  ]
+}
